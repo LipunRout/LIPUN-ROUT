@@ -1,20 +1,23 @@
 💻 About Me
 
-MCA student at GEC AUTONOMOUS | Java, Python, C, C++ Developer | Frontend Engineer | Automation Enthusiast | Cloud & IT Solutions
+🚀 Full-Stack MERN | Java & Python Enthusiast | Automation & Cloud Explorer
+Hi there! I'm Lipun, an MCA student at Gandhi Engineering College (GEC AUTONOMOUS) with a passion for software development, automation, and cloud computing. I enjoy crafting scalable, high-performance applications and optimizing workflows using modern technologies.
 
-🚀 Tech Stack & Skills
+🔧 Tech Stack & Skills
+Languages: Java (Core & Advanced), Python (Zero to Advanced)
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+Backend & Databases: Node.js, Express.js, MongoDB, Firebase
+Automation: Selenium, API Automation, Python Scripting
+Cloud & DevOps: Cloud Computing, Docker (Exploring)
+Core CS Concepts: Operating Systems, Computer Networks, DBMS, System Architecture
+📈 GitHub Stats
 
-🔹 Programming: Java, Python, C, C++
-🔹 Frontend: HTML, CSS, JavaScript, React
-🔹 Automation: Python Scripting, Workflow Automation
-🔹 Databases: SQL, MySQL
-🔹 CS Fundamentals: OS, Networks, DBMS, CSA
-🔹 Cloud & DevOps: Cloud Computing, Git, CI/CD
-🔹 Problem-Solving: Debugging, Optimization
 
-📫 Connect with Me
+🌍 Connect With Me
+📧 Email: lipunrout001@gmail.com
+🌐 Portfolio: lipun-devoops.github.io/PORTFOLIO
 
-🔗 [LinkedIn](https://www.linkedin.com/in/lipun-rout-a564b6285/) | 📧 lipunrout001@gmail.com
+🚀 Always open to collaborations, tech discussions, and learning opportunities!
 
 <!---
 LIPUN-DEVOOPS/LIPUN-DEVOOPS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
