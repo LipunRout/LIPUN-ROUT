@@ -1,17 +1,60 @@
-💻 About Me
+👑 Coder by Passion | Developer by Choice | Dreamer by Default
 
-🚀 Full-Stack MERN | Java & Python Enthusiast | Automation & Cloud Explorer
-Hi there! I'm Lipun, an MCA student at Gandhi Engineering College (GEC AUTONOMOUS) with a passion for software development, automation, and cloud computing. I enjoy crafting scalable, high-performance applications and optimizing workflows using modern technologies.
 
-🔧 Tech Stack & Skills
-Languages: Java (Core & Advanced), Python (Zero to Advanced)
-Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
-Backend & Databases: Node.js, Express.js, MongoDB, Firebase
-Automation: Selenium, API Automation, Python Scripting
-Cloud & DevOps: Cloud Computing, Docker (Exploring)
-Core CS Concepts: Operating Systems, Computer Networks, DBMS, System Architecture
-📈 GitHub Stats
+🚀 Who Am I?
+I'm a MERN stack developer with a punch of Python power and a Java backbone.
+Currently rocking my MCA at GEC Autonomous, I mix design, logic, and automation to build stuff that just works — and looks damn good doing it.
 
+🧠 What I Do:
+
+💻 Build full-stack websites that breathe interactivity
+🧪 Break things (professionally) using Selenium + Python
+☁️ Tinker with Cloud & DevOps like a digital alchemist
+📚 Create roadmaps that guide careers like GPS for dreams
+
+🛠 My Arsenal:
+
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB, Firebase
+Languages: Java, Python, C, C++
+Automation: Selenium (PyCharm), API Testing
+Others: Git, GitHub, Docker (beginner), Postman
+
+
+🌟 Featured Projects:
+
+1-Smart Learning Roadmap
+The Google Maps for every IT & Non-IT job dream
+
+2-CEPD – Online Fuel Delivery
+Need fuel? My code brings it to your door
+
+3-Discount Finder
+Real-time offers from offline stores – No clickbait
+
+4-SayItNow
+Confess, vibe, and vanish – the anonymous college journal
+
+5-EchoVibe
+Stream music & video with search magic + responsive perfection
+
+🧪 Past Experience
+Automation Tester Intern @ Quality Coders
+Wrote test scripts. Found bugs. Broke things. Made it better.
+
+🧬 Academic Trail
+🎓 MCA – GEC (9.21-SGPA  in 1st Sem)
+📘 BCA – CGPA: 7.24
+📏 12th (Science - PCM): 71%
+📐 10th CHSE: 70
+
+💡 Fun Fact
+I code better when there’s a playlist in the background and a bug challenging me like a boss fight.
+
+🔗 Let’s Build Something Together
+Wanna collaborate? Talk tech? Or just vibe with code?
+I’m just one pull request away.
 
 🌍 Connect With Me
 📧 Email: lipunrout001@gmail.com
